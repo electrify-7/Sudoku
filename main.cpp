@@ -13,8 +13,6 @@ int main(){
     askforuserinput();
     }
 
-   #include <iostream>
-
 
     std::cout << "\033[33m" <<
     "██╗░░░██╗░█████╗░██╗░░░██╗  ░██╗░░░░░░░██╗██╗███╗░░██╗██╗\n"
